@@ -1,0 +1,80 @@
+#pic {
+    border-radius : 200px;
+    border : 3px solid white;
+    height : 230;
+    width : 225;
+}
+
+#intro {
+    color : white;
+    height : 400;
+    background : linear-gradient(#dedee9,#9c9caa);
+    background-image: url(how-to-sell-used-books-for-the-most-cash-1388970-01-7815a93d4c95431999e1b5192ece1699.jpg)
+    
+}
+
+h1 {
+    font-family: 'Caveat', cursive;
+    font-size : 60;
+}
+
+h3 {
+    font-family: 'Caveat', cursive;
+    font-size : 40;
+    margin : 10px;
+}
+
+hr {
+    width : 900px;
+    height : 3px;
+    background-color: transparent;
+    color : transparent;
+    margin : 5;
+}
+
+#bio {
+    background-color : #cacad4;
+    height : 500px;
+    color : white;
+    
+}
+
+.menu {
+    list-style : none;
+    top : 10px;
+    right : 30px;
+    position : fixed;
+    z-index : 99;
+}
+
+.links {
+    float : left;
+    padding : 10px;
+    font-size : 30px;
+    font-family: 'Caveat', cursive;
+    color : white;
+}
+
+.links:hover {
+    background-color : black;
+    cursor : pointer;
+}
+
+#pt {
+    margin-top : 10px;
+    margin-bottom : 5px;
+    text-decoration : underline;
+    margin-left : 10px
+}
+
+img {
+    margin-top : 20px
+}
+
+#line {
+    margin-top : 50
+}
+
+#space {
+    height : 90px;
+}
